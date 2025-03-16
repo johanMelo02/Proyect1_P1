@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/layout/activity_main.xml -->
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp">
+
+    <Button
+        android:id="@+id/button_practice_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Práctica 1 - Hola Mundo" />
+
+    <Button
+        android:id="@+id/button_practice_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Práctica 2 - Contador de Clicks" />
+
+    <Button
+        android:id="@+id/button_practice_3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Práctica 3 - Contador con Temporizador" />
+
+    <Button
+        android:id="@+id/button_practice_4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Práctica 4 - Historial en Archivo de Texto" />
+
+    <Button
+        android:id="@+id/button_practice_5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Práctica 5 - Almacenamiento en SQLite" />
+
+    <Button
+        android:id="@+id/button_practice_6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Práctica 6 - Historial en SQLite" />
+</LinearLayout>
